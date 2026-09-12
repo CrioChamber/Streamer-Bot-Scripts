@@ -1,4 +1,4 @@
-# StreamerBotCode
+# Streamer Bot Scripts
 
 C# Code written by me, CrioChamber, to work in the chatbot [Streamer.bot](https://streamer.bot/) as custom C# code actions for a hobby of mine.
 
