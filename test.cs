@@ -1,6 +1,4 @@
 using System;
-using System.Drawing.Text;
-using System.IO;
 
 static bool Execute()
     {
